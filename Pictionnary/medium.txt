@@ -1,0 +1,5 @@
+4
+cat
+firework
+camera
+football

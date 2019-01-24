@@ -1,0 +1,276 @@
+difficuly : 1
+word : tree
+amount of points : 142
+amount of segments : 141
+amount of paths : 6
+minimum size of paths : 74.290627
+maximum size of paths : 582.789001
+average size of paths : 382.750153
+
+time of each path:
+path 1: 0.420000
+path 2: 0.280000
+path 3: 0.380000
+path 4: 0.480000
+path 5: 0.240000
+path 6: 0.780000
+
+all segments equations (trajectory): 
+segment 1: -2x+7y-2105=0
+
+segment 2: -8x+14y-3002=0
+
+segment 3: -13x+17y-2607=0
+
+segment 4: -14x+23y-4722=0
+
+segment 5: -8x+26y-8124=0
+
+segment 6: -1x+25y-10368=0
+
+segment 7: 2x+20y-9434=0
+
+segment 8: 6x+11y-7281=0
+
+segment 9: 7x+4y-4758=0
+
+segment 10: 20x+8y-12168=0
+
+segment 11: 29x+20y-20970=0
+
+segment 12: 33x+32y-27254=0
+
+segment 13: 19x+46y-24902=0
+
+segment 14: 3x+46y-16134=0
+
+segment 15: -17x+57y-7686=0
+
+segment 16: -25x+45y+1470=0
+
+segment 17: -30x+31y+9906=0
+
+segment 18: -25x+11y+13951=0
+
+segment 19: -15x+1y+10661=0
+
+segment 20: -2x-1y+1902=0
+
+segment 21: 0x-1y+426=0
+
+segment 22: -7x-8y+10068=0
+
+segment 23: -11x-16y+17196=0
+
+segment 24: -14x-28y+25032=0
+
+segment 25: -14x-48y+33552=0
+
+segment 26: -10x-48y+30000=0
+
+segment 27: -5x-39y+21750=0
+
+segment 28: -5x-52y+27665=0
+
+segment 29: -6x-56y+30254=0
+
+segment 30: -5x-58y+30493=0
+
+segment 31: -4x-54y+27974=0
+
+segment 32: -1x-50y+24331=0
+
+segment 33: 0x-44y+20944=0
+
+segment 34: 1x-36y+16649=0
+
+segment 35: 3x-32y+13847=0
+
+segment 36: 9x+5y-4934=0
+
+segment 37: 8x+11y-6241=0
+
+segment 38: 13x+25y-12101=0
+
+segment 39: 11x+31y-12819=0
+
+segment 40: 14x+39y-16201=0
+
+segment 41: 12x+40y-15444=0
+
+segment 42: 11x+49y-16932=0
+
+segment 43: 14x+73y-23826=0
+
+segment 44: 9x+64y-18731=0
+
+segment 45: 3x+45y-10764=0
+
+segment 46: 10x+58y-18584=0
+
+segment 47: 15x+39y-19332=0
+
+segment 48: 10x+30y-13540=0
+
+segment 49: 3x+13y-4674=0
+
+segment 50: 0x+2y-300=0
+
+segment 51: -6x-2y+5760=0
+
+segment 52: -7x-2y+6668=0
+
+segment 53: -5x-3y+5019=0
+
+segment 54: -6x-4y+6090=0
+
+segment 55: 7x+5y-9501=0
+
+segment 56: 13x+3y-14659=0
+
+segment 57: 25x+5y-27835=0
+
+segment 58: 35x+3y-37221=0
+
+segment 59: 41x+1y-42591=0
+
+segment 60: 39x-7y-37643=0
+
+segment 61: 35x-9y-32907=0
+
+segment 62: 29x-6y-27684=0
+
+segment 63: 27x-2y-26700=0
+
+segment 64: 1x-1006=0
+
+segment 65: 24x+1y-24353=0
+
+segment 66: 17x+2y-17489=0
+
+segment 67: 10x+1y-10258=0
+
+segment 68: 1x-1010=0
+
+segment 69: 1x-1010=0
+
+segment 70: 0x+1y-157=0
+
+segment 71: 1x-1011=0
+
+segment 72: 1x-1011=0
+
+segment 73: 1x-1011=0
+
+segment 74: 1x-1011=0
+
+segment 75: 1x-1011=0
+
+segment 76: 1x-1011=0
+
+segment 77: 1x-1011=0
+
+segment 78: 1x-1011=0
+
+segment 79: 1x-811=0
+
+segment 80: 1x-811=0
+
+segment 81: 1x-811=0
+
+segment 82: 1x-811=0
+
+segment 83: -6x+1y+4311=0
+
+segment 84: -6x+2y+3750=0
+
+segment 85: -5x+3y+2369=0
+
+segment 86: -7x+6y+2287=0
+
+segment 87: -6x+8y+306=0
+
+segment 88: -6x+8y+306=0
+
+segment 89: -5x+10y-1715=0
+
+segment 90: -7x+14y-2401=0
+
+segment 91: 8x+7y-12871=0
+
+segment 92: 8x+6y-12278=0
+
+segment 93: 5x+4y-7820=0
+
+segment 94: 4x+3y-6140=0
+
+segment 95: 3x+2y-4461=0
+
+segment 96: 1x-1105=0
+
+segment 97: 5x+1y-6096=0
+
+segment 98: 3x+2y-4450=0
+
+segment 99: 4x+1y-4995=0
+
+segment 100: 8x+1y-9431=0
+
+segment 101: 5x+1y-6101=0
+
+segment 102: 4x+2y-5536=0
+
+segment 103: 1x-1113=0
+
+segment 104: 6x+1y-7217=0
+
+segment 105: 5x+1y-6103=0
+
+segment 106: 4x+2y-5516=0
+
+segment 107: 8x+1y-9460=0
+
+segment 108: 5x+1y-6106=0
+
+segment 109: 6x+2y-7736=0
+
+segment 110: 1x-1121=0
+
+segment 111: 6x+1y-7226=0
+
+segment 112: 6x+1y-7226=0
+
+segment 113: 1x-1123=0
+
+segment 114: 1x-1123=0
+
+segment 115: 7x+1y-8339=0
+
+segment 116: 5x+1y-6091=0
+
+segment 117: 1x-1125=0
+
+segment 118: 1x-1125=0
+
+segment 119: 1x-1125=0
+
+segment 120: 1x-1125=0
+
+segment 121: 1x-1125=0
+
+segment 122: 1x-1125=0
+
+segment 123: 1x-1125=0
+
+segment 124: 1x-1125=0
+
+segment 125: 1x-1125=0
+
+segment 126: 1x-1125=0
+
+segment 127: 1x-1125=0
+
+segment 128: 1x-1125=0
+
+segment 129: 1x-1125=0
+
